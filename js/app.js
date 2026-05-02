@@ -19,7 +19,7 @@ const CONFIG = {
   // Get from: https://dashboard.paystack.com/#/settings/developer
   // Test: pk_test_xxxxxxxxxxxxxxxxx
   // Live: pk_live_xxxxxxxxxxxxxxxxx
-  PAYSTACK_PUBLIC_KEY: 'pk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+  PAYSTACK_PUBLIC_KEY: 'pk_live_1d48c7981d1abf7396474499a369ab7bef17740a',
 
   // ✅ FILL IN: Your actual website URL
   SITE_URL: 'https://YOUR_USERNAME.github.io/fanvault',
